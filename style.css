@@ -1,0 +1,55 @@
+body{
+    position: relative;
+}
+
+.right{
+    position: fixed;
+    top: 10px;
+    right: 0;
+}
+.navbar{
+    justify-content: flex-start!important;
+}
+
+.navbar h2{
+    flex-grow: 1;
+    text-align: center;
+}
+
+.navbar-brand{
+    flex-grow: 1;
+}
+.con{
+    border: 1px solid white ; 
+    float: left;
+    
+}
+.conteine{
+    text-align: center;
+}
+.cent {
+    text-align: center;
+   
+}
+.cen{
+    text-align: right;
+}
+.ohban p{
+    font-size: 20px;}
+code {font-size: 15px;}
+p, a {font-size: 20px;}
+
+.rightpic {
+    float: left;
+    margin: 0 0 5px 5px;}
+.rig p{
+     font-size: 25px;}
+ .nae{
+    font-size: 125px;
+ }    
+  
+
+     
+div{
+    border: 1px solid white;
+}
