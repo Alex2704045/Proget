@@ -1,12 +1,21 @@
 body{
     position: relative;
+
+}
+ .pe p{
+    font-size: 100px;
+    
+
 }
 
 .right{
     position: fixed;
     top: 10px;
     right: 0;
-   
+
+}
+.sfd{
+    text-align: center;
 }
 .navbar{
     justify-content: flex-start!important;
